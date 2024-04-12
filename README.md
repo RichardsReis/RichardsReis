@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align='center'>Oi Dev, meu nome é Richard Reis 👋</h2>
 
-<!--
-**RichardsReis/RichardsReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align='center'>Desenvolvedor Web Front-end :computer:</h3>
 
-Here are some ideas to get you started:
+   ### Contatos
+   <div style="display: flex; gap: 10px;">
+      <a href="https://www.linkedin.com/in/richard-reis-b904392ab/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <a href="mailto:dev.richardreis21@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+   <div/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### Habilidades
+   <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+   <div/>
+
+   ### Estudando
+   <div style="display: flex; gap: 10px;">
+       
+   <div/>
