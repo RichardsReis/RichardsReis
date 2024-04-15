@@ -1,4 +1,4 @@
-<h2 align='center'>Oi Dev, meu nome é Richard Reis 👋</h2>
+<h2 align='center'>Olá Dev, meu nome é Richard Reis 👋</h2>
 
 <h3 align='center'>Desenvolvedor Web Front-end :computer:</h3>
 
